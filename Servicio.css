@@ -1,0 +1,54 @@
+.Contenedor {
+
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+
+.Boton {
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: red;
+    background-color: transparent;
+    color: black;
+    transition: .5s ease;
+    
+}
+
+.Boton:hover {
+    background-color: aqua;
+    transform: translateY(-5px);
+
+}
+
+.parte1 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.parte2 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+
+.parte3 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.parte4 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.parte5 {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
